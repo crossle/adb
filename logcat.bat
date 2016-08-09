@@ -1,0 +1,1 @@
+adb logcat -v time > shou.log
